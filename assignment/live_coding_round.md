@@ -13,12 +13,12 @@ This interview is divided into two main rounds:
 - Share your screen while writing code. You may use any coding environment.
 
 #### 2. Verbal Round
-- Please review the code snippet given below in Question #3 and suggest improvements.
 - We will ask questions to evaluate your coding fundamentals and debugging skills.
 
 ---
 
-## Questions
+The rest of this document covers questions related to the live coding round.
+
 
 ### **Question #1: Task Manager Application**
 Create a simple Task Manager Application by completing the six listed tasks in the linked `script.js` file. 
