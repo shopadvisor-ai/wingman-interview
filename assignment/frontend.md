@@ -1,23 +1,20 @@
-# Coding Battleground Challenge
+# Wingman Coding Battleground Challenge
 
-Welcome to the **Coding Battleground Challenge**. You will compete live with other candidates through a series of live coding and verbal questions. 
+Welcome to the **Wingman Coding Battleground Challenge for Frontend Engineering Role**. You will compete live with other candidates through live coding and verbal questions to win the role. 
 
-Each candidate will be assigned a separate breakout room to ensure focused participation. The **Wingman team members** will hop between breakout rooms to:
-- Answer your questions.
-- Provide real-time feedback.
-- Guide you through the rounds/questions.
+Each candidate will be assigned a separate breakout room to ensure focused participation. The **Wingman team members** will hop between breakout rooms to answer your questions, provide real-time feedback, and uide you through the rounds/questions.
 
 ## Interview Structure
 
 This interview is divided into two main rounds:
 
-### 1. Live Coding Round
-- Solve **Question #1** and **Question #2** listed below.
+#### 1. Live Coding Round
+- Solve Question #1 and Question #2 listed below.
 - Share your screen while writing code. You may use any coding environment.
 
-### 2. Verbal Round
+#### 2. Verbal Round
 - We will evaluate your coding fundamentals and debugging skills.
-- One such task involves analyzing a code snippet (refer to **Question #3** below) and suggesting improvements.
+- One such code snippet is listed below (Question #3). Review this code snippet and suggest improvements.
 
 ---
 
@@ -33,11 +30,10 @@ Create a simple Task Manager Application by completing the six listed tasks in t
 
 ### **Question #2: Sales Table Modification**
 
-Enhance the existing sales table as described below:
+Modify the sales table you created in the submitted dashboard assignment as follows:
 
 #### Desktop View:
-- Convert the table into a **grid layout**.  
-  *(This step was covered in your prior assignment.)*
+- The table should appear in a **grid layout**.  *(You already did it during your assignment.)*
 - Remove pagination and implement **infinite scroll**. Bonus points for **virtual scroll**.
 
 #### Mobile View:
