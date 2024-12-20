@@ -1,8 +1,8 @@
 # Wingman Coding Battleground Challenge
 
-Welcome to the **Wingman Coding Battleground Challenge for Frontend Engineering Role**. You will compete live with other candidates through live coding and verbal questions to win the role. 
+Welcome to the Wingman Coding Battleground Challenge for the Frontend Engineering Role. You will compete live with other candidates through live coding and verbal questions to win the role. 
 
-Each candidate will be assigned a separate breakout room to ensure focused participation. The **Wingman team members** will hop between breakout rooms to answer your questions, provide real-time feedback, and uide you through the rounds/questions.
+Each candidate will be assigned a separate breakout room to ensure focused participation. The **Wingman team members** will hop between breakout rooms to answer your questions, provide real-time feedback, and guide you through the rounds/questions.
 
 ## Interview Structure
 
