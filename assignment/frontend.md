@@ -1,20 +1,21 @@
-We will be hoping between different breakout rooms to assist you with your questions, check on you and move through diff rounds. 
+Welcome to the coding battleground challenge. You will compete with other candidates live through a series of live coding and verbal questions. 
 
-The candidates are in different breakout rooms so they don't get disturbed by conversations with others. 
+Each candidate will be assigned a separate breakout room to avoid unwanted chatter. The Wingman team members will be hopping between different breakout rooms 
+to help answer any questions, provide real-time feedback, and move you through the rounds/questions. 
 
-This interview round is split into two main sessions. 
+This interview is split into two main rounds: 
 
-(1)Live coding round:
+(1) Live coding round
     - Solve the question #1 and question #2 given below. 
-    - Please keep your screen sharing turned on as you write the code.
+    - Please share your screen as you write the code. You can choose any coding environment. 
   
-(2) Verbal round: 
-    - We will ask you certain questions to understand your coding fundamentals and debugging skills. 
-    - One such code snippet is listed below (question #3). Review this code snippet. How would you make it better?
+(2) Verbal round 
+    - We will ask questions to understand your coding fundamentals and debugging skills. 
+    - One such code snippet is listed below (question #3). Review this code snippet and suggest how you would make it better.
 
-==================================================================================================================================
+==================================================================================================
 
-**Question #1 (coding):**
+**Question #1 (live coding):**
 
 Create a simple Task Manager Application. Head over to the script.js file at the link and finish each of the six listed tasks. 
 
@@ -22,7 +23,7 @@ https://codesandbox.io/p/sandbox/task-manager-forked-s3fdqk?workspaceId=ws_ViJ1r
 
 
 
-**Question #2 (coding)**
+**Question #2 (live coding)**
 
 Modify the sales table in your coding submission as follows:
 
@@ -36,7 +37,7 @@ Modify the sales table in your coding submission as follows:
 
 
 
-**Question #3 (review):**
+**Question #3 (verbal review):**
 
 ```javascript
 import React, { useState } from 'react';
@@ -90,15 +91,4 @@ function App() {
 export default App;
 ```
 
-
-
-
-
-
-If needed, as theortical question:
-1. Create Reusable Accordian Component
-2. What is the diff between 401 and 403 error. What is the diff between authorization and authentication?
-3. API
-   - Design APIs for Book My Show Dashboard page
-  - Design APIs for Uber/Ola page (after the User have started ride)
 
