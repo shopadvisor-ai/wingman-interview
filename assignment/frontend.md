@@ -13,8 +13,8 @@ This interview is divided into two main rounds:
 - Share your screen while writing code. You may use any coding environment.
 
 #### 2. Verbal Round
-- We will evaluate your coding fundamentals and debugging skills.
-- One such code snippet is listed below (Question #3). Review this code snippet and suggest improvements.
+- Please review the code snippet given below in Question #3 and suggest improvements.
+- We will ask questions to evaluate your coding fundamentals and debugging skills.
 
 ---
 
